@@ -1,0 +1,14 @@
+name: will_it_run
+description: Dart package for checking the compatabilty for each package in your project with platforms.
+version: 1.0.0
+repository: https://github.com/A7mdlnanna/will_it_run
+issue_tracker: https://github.com/A7mdlnanna/will_it_run/issues
+
+environment:
+  sdk: '>=2.19.3 <3.0.0'
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.21.0
+dependencies:
+  pub_api_client: ^2.4.0
