@@ -33,29 +33,10 @@ The compatibility check is based on the Flutter platform compatibility informati
 
 Here's an example output of the compatibility check command:
 
-```
-Please wait while we fetch your packages...
-
-Cupertino Icons (supported)
-flutter_svg_provider (supported)
-flutter_easylogger (supported)
-cached_network_image (supported)
-shimmer (supported)
-awesome_dialog (supported)
-json_serializable (not supported)
-build_runner (not supported)
-json_annotation (supported)
-
-7 packages support iOS
-2 packages do not support iOS
-```
+![image](https://github.com/A7mdlbanna/will_it_run/assets/71278733/f627548b-6f4b-4e45-956b-60ae3e5355c2)
 
 In this example, 7 out of 9 packages support iOS, while 2 packages do not.
 
 ## Contributing
 
 Contributions to `will_it_run` are welcome! If you encounter any issues or have suggestions for improvements, please open an issue on the [GitHub repository](https://github.com/A7mdlbanna/will_it_run).
-
-## License
-
-This package is released under the [MIT License](https://opensource.org/licenses/MIT).
