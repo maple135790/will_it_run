@@ -36,13 +36,13 @@ Here's an example output of the compatibility check command for different platfo
 
 ### iOS
 
-![iOS](https://raw.githubusercontent.com/A7mdlbanna/will_it_run/main/assets/ios.png)
+![iOS](https://raw.githubusercontent.com/A7mdlbanna/will_it_run/master/assets/ios.png)
 
 In this example, 7 out of 9 packages support iOS, while 2 packages do not.
 
 ### macOS
 
-![macOS](https://raw.githubusercontent.com/A7mdlbanna/will_it_run/main/assets/macos.png)
+![macOS](https://raw.githubusercontent.com/A7mdlbanna/will_it_run/master/assets/macos.png)
 
 In this example, all packages support macOS.
 
