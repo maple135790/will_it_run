@@ -47,7 +47,8 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  will_it_run: ^1.0.0
+  will_it_run:
+    path: ../
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
