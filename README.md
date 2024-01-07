@@ -8,7 +8,7 @@ Add `will_it_run` as a dev dependency in your `pubspec.yaml` file:
 
 ```yaml
 dev_dependencies:
-  will_it_run: ^1.0.2
+  will_it_run: ^1.0.4
 ```
 
 Then, run the following command to install the package:
